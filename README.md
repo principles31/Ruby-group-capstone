@@ -52,7 +52,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Emmanue Mensah**
 
- GitHub: [@principle31](https://github.com/principles31)
+- GitHub: [@principle31](https://github.com/principles31)
 - Twitter: [@manuel31mens](https://Twiter.com/@Manuel31mens)
 - LinkedIn: [emmanuel-mensah](www.linkedin.com/in/emmanuel-mensah-
 
